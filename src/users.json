@@ -1,0 +1,7 @@
+{
+  "users":[
+    {"id":2,"firstName":"John", "lastName":"Doe","email": "a@gmail.com","gender": "Male","birthday":"1999-12-17","salary":9600, "phone": "232-233-1212"},
+    {"id":3,"firstName":"Belia", "lastName":"Doe","email": "a@gmail.com","gender": "Male","birthday":"1999-10-12","salary":9200, "phone": "232-233-1212"},
+    {"id":1,"firstName":"John", "lastName":"Gully","email": "bguly1@gmail.com","gender": "Female","birthday":"1966-12-17","salary":9000, "phone": "555-752-7277"}
+  ]
+}
