@@ -5,12 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31d6d700-783e-46f3-b2ff-9203a1b905ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FEEReactMA0202.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaskList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/check2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/CartList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/FullPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/root.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/luufile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pencil-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TaskList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +33,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -46,6 +59,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/FSOFT JAVA FRESHER/FEE-React/final/src&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -54,12 +69,17 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FSOFT JAVA FRESHER\FEE-React\final\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\FSOFT JAVA FRESHER\FEE-React\final\src" />
+      <recent name="D:\FSOFT JAVA FRESHER\FEE-React\final\src\component" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -90,7 +110,14 @@
       <workItem from="1666334296324" duration="659000" />
       <workItem from="1666335506669" duration="10278000" />
       <workItem from="1666363084763" duration="10702000" />
-      <workItem from="1666410335669" duration="1810000" />
+      <workItem from="1666410335669" duration="3166000" />
+      <workItem from="1666417698662" duration="1661000" />
+      <workItem from="1666421321087" duration="20000" />
+      <workItem from="1666423053308" duration="10000" />
+      <workItem from="1666508784756" duration="17559000" />
+      <workItem from="1666573814931" duration="8669000" />
+      <workItem from="1666591824113" duration="13365000" />
+      <workItem from="1666612732675" duration="1618000" />
     </task>
     <servers />
   </component>

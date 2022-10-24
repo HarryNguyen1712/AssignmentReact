@@ -14,14 +14,13 @@ class TaskList extends Component {
 
     Delete = (id) => {
         console.log(id)
-        var task1=this.state.tasks;
+        var task1 = this.state.tasks;
         console.log(task1)
         let task2 = task1.filter((value, index) => {
-            return index!==id;
+            return index !== id;
         })
 
         console.log(task2)
-
 
 
         this.setState({
@@ -60,12 +59,13 @@ class TaskList extends Component {
             task: e.target.value,
         })
     }
-    clear = ()=>{
+    clear = () => {
         this.setState({
             tasks: [],
             task: ""
         })
     }
+
     render() {
         var main = (
             <main style={{display: "flex", justifyContent: " center", marginTop: "0.5rem"}}>
@@ -94,15 +94,14 @@ class TaskList extends Component {
                         <ul id="myList" className="list-group">
                             {
 
-                                this.state.tasks.map((value,index) => {
+                                this.state.tasks.map((value, index) => {
                                     return (<div style={{display: "flex", justifyContent: "space-between"}}><p
                                             style={{width: "20rem"}}>{value}</p>
                                             <button className="btn btn-primary mb-3" onClick={
-                                                ()=>{
-                                                    this.Update(Event,index);
+                                                () => {
+                                                    this.Update(Event, index);
                                                 }
-                                            }
-                                                    >
+                                            }>
                                                 <img src="../../test/src/383148_edit_icon.svg" alt="edit SVG"/>
                                             </button>
                                             <button className="btn btn-danger mb-3" onClick={() => {
